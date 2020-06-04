@@ -35,4 +35,4 @@ module.name_mapper.extension='md' -> '<PROJECT_ROOT>/stubs/stringStub.js'
 module.name_mapper.extension='css' -> '<PROJECT_ROOT>/stubs/stub.js'
 
 [version]
-^0.113.0
+^0.126.1
