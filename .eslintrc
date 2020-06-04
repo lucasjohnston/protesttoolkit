@@ -2,9 +2,21 @@
   "parser": "babel-eslint",
   "extends": [
     "eslint:recommended",
-    "plugin:react/recommended"
+    "plugin:react/recommended",
+    "plugin:jsx-a11y/recommended",
+    "plugin:flowtype/recommended",
+    "plugin:flowtype-errors/recommended",
+    "prettier",
+    "prettier/react"
   ],
-  "plugins": ["prettier", "flowtype", "flowtype-errors", "react-native"],
+  "plugins": [
+    "prettier",
+    "flowtype",
+    "flowtype-errors",
+    "jsx-a11y",
+    "react-native",
+    "react"
+  ],
   "rules": {
     "strict": 0,
     "no-debugger": 1,
@@ -14,6 +26,12 @@
     "flowtype/define-flow-type": 1,
     "flowtype-errors/show-errors": 2,
     "flowtype-errors/show-warnings": 1,
+    "react-native/no-unused-styles": 2,
+    "react-native/split-platform-components": 2,
+    "react-native/no-inline-styles": 2,
+    "react-native/no-color-literals": 2,
+    "react-native/no-raw-text": 2,
+    "react-native/no-single-element-style-arrays": 2,
     "no-restricted-syntax": [
       "error",
       {
@@ -40,7 +58,7 @@
   },
   "parserOptions": {
     "ecmaFeatures": {
-        "jsx": true
+      "jsx": true
     }
   }
 }
