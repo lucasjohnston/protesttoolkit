@@ -8,6 +8,9 @@
 
 /* Begin PBXBuildFile section */
 		00E356F31AD99517003FC87E /* protesttoolkitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* protesttoolkitTests.m */; };
+		02AD3E2EF61B4F4D962FC273 /* Lora-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */; };
+		05FC8B47D728485C9D301082 /* YoungSerif.otf in Resources */ = {isa = PBXBuildFile; fileRef = D0BADA4028384FA6A9219953 /* YoungSerif.otf */; };
+		0A97374338FF4223B8A38B04 /* Lora-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */; };
 		13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
@@ -16,19 +19,16 @@
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
 		2DCD954D1E0B4F2C00145EB5 /* protesttoolkitTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 00E356F21AD99517003FC87E /* protesttoolkitTests.m */; };
+		37EE0802B2AC47D3B430DFDC /* Lora-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */; };
+		5D323284038D4E8887C2F558 /* Lora-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */; };
+		653F4BF80BC44B6E8504A3A7 /* Lora-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */; };
+		84CCE0480CBB497D9744841A /* Lora-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */; };
 		9CB14201ABF4FE0C969F93E9 /* libPods-protesttoolkit-tvOS.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 0507EDA62CAA8E916BC5F1D3 /* libPods-protesttoolkit-tvOS.a */; };
 		A4F5042343D0C0B571E2EFA0 /* libPods-protesttoolkit.a in Frameworks */ = {isa = PBXBuildFile; fileRef = CCF3AB68A81520D044F19D3C /* libPods-protesttoolkit.a */; };
 		B1876B24FB8446BBEC0A193D /* libPods-protesttoolkit-tvOSTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = 726FBE01B47D60C18EA864B4 /* libPods-protesttoolkit-tvOSTests.a */; };
-		E374AD4E7416A9BA7C10C7C3 /* libPods-protesttoolkit-protesttoolkitTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BBABE7B24F1A52B34012D33D /* libPods-protesttoolkit-protesttoolkitTests.a */; };
-		84CCE0480CBB497D9744841A /* Lora-Bold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */; };
-		0A97374338FF4223B8A38B04 /* Lora-BoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */; };
-		FCED7BDF53E64FD89E0FC908 /* Lora-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */; };
-		37EE0802B2AC47D3B430DFDC /* Lora-Medium.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */; };
 		BBEF98200B964ED290F3FDCF /* Lora-MediumItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = F1EFA46633494545B92F4EF5 /* Lora-MediumItalic.ttf */; };
-		653F4BF80BC44B6E8504A3A7 /* Lora-Regular.ttf in Resources */ = {isa = PBXBuildFile; fileRef = EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */; };
-		02AD3E2EF61B4F4D962FC273 /* Lora-SemiBold.ttf in Resources */ = {isa = PBXBuildFile; fileRef = D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */; };
-		5D323284038D4E8887C2F558 /* Lora-SemiBoldItalic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */; };
-		05FC8B47D728485C9D301082 /* YoungSerif.otf in Resources */ = {isa = PBXBuildFile; fileRef = D0BADA4028384FA6A9219953 /* YoungSerif.otf */; };
+		E374AD4E7416A9BA7C10C7C3 /* libPods-protesttoolkit-protesttoolkitTests.a in Frameworks */ = {isa = PBXBuildFile; fileRef = BBABE7B24F1A52B34012D33D /* libPods-protesttoolkit-protesttoolkitTests.a */; };
+		FCED7BDF53E64FD89E0FC908 /* Lora-Italic.ttf in Resources */ = {isa = PBXBuildFile; fileRef = 66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -54,6 +54,7 @@
 		00E356F11AD99517003FC87E /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		00E356F21AD99517003FC87E /* protesttoolkitTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = protesttoolkitTests.m; sourceTree = "<group>"; };
 		0507EDA62CAA8E916BC5F1D3 /* libPods-protesttoolkit-tvOS.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-protesttoolkit-tvOS.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-SemiBoldItalic.ttf"; path = "../assets/fonts/Lora-SemiBoldItalic.ttf"; sourceTree = "<group>"; };
 		13B07F961A680F5B00A75B9A /* protesttoolkit.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = protesttoolkit.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		13B07FAF1A68108700A75B9A /* AppDelegate.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; name = AppDelegate.h; path = protesttoolkit/AppDelegate.h; sourceTree = "<group>"; };
 		13B07FB01A68108700A75B9A /* AppDelegate.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = AppDelegate.m; path = protesttoolkit/AppDelegate.m; sourceTree = "<group>"; };
@@ -68,23 +69,22 @@
 		3FA92F5C15D4753C56607147 /* Pods-protesttoolkit-protesttoolkitTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit-protesttoolkitTests.release.xcconfig"; path = "Target Support Files/Pods-protesttoolkit-protesttoolkitTests/Pods-protesttoolkit-protesttoolkitTests.release.xcconfig"; sourceTree = "<group>"; };
 		561C67824A75BF541CF939B3 /* Pods-protesttoolkit.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit.release.xcconfig"; path = "Target Support Files/Pods-protesttoolkit/Pods-protesttoolkit.release.xcconfig"; sourceTree = "<group>"; };
 		56B185839DC370A3E7890736 /* Pods-protesttoolkit-tvOS.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit-tvOS.debug.xcconfig"; path = "Target Support Files/Pods-protesttoolkit-tvOS/Pods-protesttoolkit-tvOS.debug.xcconfig"; sourceTree = "<group>"; };
+		66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-Italic.ttf"; path = "../assets/fonts/Lora-Italic.ttf"; sourceTree = "<group>"; };
 		726FBE01B47D60C18EA864B4 /* libPods-protesttoolkit-tvOSTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-protesttoolkit-tvOSTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-BoldItalic.ttf"; path = "../assets/fonts/Lora-BoldItalic.ttf"; sourceTree = "<group>"; };
+		7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-Medium.ttf"; path = "../assets/fonts/Lora-Medium.ttf"; sourceTree = "<group>"; };
 		8B75A544A457151269058272 /* Pods-protesttoolkit-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-protesttoolkit-tvOSTests/Pods-protesttoolkit-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		8E39FCFD99C8890064B54C1A /* Pods-protesttoolkit-protesttoolkitTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit-protesttoolkitTests.debug.xcconfig"; path = "Target Support Files/Pods-protesttoolkit-protesttoolkitTests/Pods-protesttoolkit-protesttoolkitTests.debug.xcconfig"; sourceTree = "<group>"; };
 		BBABE7B24F1A52B34012D33D /* libPods-protesttoolkit-protesttoolkitTests.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-protesttoolkit-protesttoolkitTests.a"; sourceTree = BUILT_PRODUCTS_DIR; };
 		CCF3AB68A81520D044F19D3C /* libPods-protesttoolkit.a */ = {isa = PBXFileReference; explicitFileType = archive.ar; includeInIndex = 0; path = "libPods-protesttoolkit.a"; sourceTree = BUILT_PRODUCTS_DIR; };
+		D0BADA4028384FA6A9219953 /* YoungSerif.otf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = YoungSerif.otf; path = ../assets/fonts/YoungSerif.otf; sourceTree = "<group>"; };
+		D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-SemiBold.ttf"; path = "../assets/fonts/Lora-SemiBold.ttf"; sourceTree = "<group>"; };
+		EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-Regular.ttf"; path = "../assets/fonts/Lora-Regular.ttf"; sourceTree = "<group>"; };
 		ED297162215061F000B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = System/Library/Frameworks/JavaScriptCore.framework; sourceTree = SDKROOT; };
 		ED2971642150620600B7C4FE /* JavaScriptCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = JavaScriptCore.framework; path = Platforms/AppleTVOS.platform/Developer/SDKs/AppleTVOS12.0.sdk/System/Library/Frameworks/JavaScriptCore.framework; sourceTree = DEVELOPER_DIR; };
+		F1EFA46633494545B92F4EF5 /* Lora-MediumItalic.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-MediumItalic.ttf"; path = "../assets/fonts/Lora-MediumItalic.ttf"; sourceTree = "<group>"; };
+		FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */ = {isa = PBXFileReference; explicitFileType = undefined; fileEncoding = 9; includeInIndex = 0; lastKnownFileType = unknown; name = "Lora-Bold.ttf"; path = "../assets/fonts/Lora-Bold.ttf"; sourceTree = "<group>"; };
 		FD18C89A5273D8B020BE5E5F /* Pods-protesttoolkit-tvOSTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-protesttoolkit-tvOSTests.debug.xcconfig"; path = "Target Support Files/Pods-protesttoolkit-tvOSTests/Pods-protesttoolkit-tvOSTests.debug.xcconfig"; sourceTree = "<group>"; };
-		FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */ = {isa = PBXFileReference; name = "Lora-Bold.ttf"; path = "../assets/fonts/Lora-Bold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */ = {isa = PBXFileReference; name = "Lora-BoldItalic.ttf"; path = "../assets/fonts/Lora-BoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */ = {isa = PBXFileReference; name = "Lora-Italic.ttf"; path = "../assets/fonts/Lora-Italic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */ = {isa = PBXFileReference; name = "Lora-Medium.ttf"; path = "../assets/fonts/Lora-Medium.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		F1EFA46633494545B92F4EF5 /* Lora-MediumItalic.ttf */ = {isa = PBXFileReference; name = "Lora-MediumItalic.ttf"; path = "../assets/fonts/Lora-MediumItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */ = {isa = PBXFileReference; name = "Lora-Regular.ttf"; path = "../assets/fonts/Lora-Regular.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */ = {isa = PBXFileReference; name = "Lora-SemiBold.ttf"; path = "../assets/fonts/Lora-SemiBold.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */ = {isa = PBXFileReference; name = "Lora-SemiBoldItalic.ttf"; path = "../assets/fonts/Lora-SemiBoldItalic.ttf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
-		D0BADA4028384FA6A9219953 /* YoungSerif.otf */ = {isa = PBXFileReference; name = "YoungSerif.otf"; path = "../assets/fonts/YoungSerif.otf"; sourceTree = "<group>"; fileEncoding = undefined; lastKnownFileType = unknown; explicitFileType = undefined; includeInIndex = 0; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -167,6 +167,22 @@
 			name = Frameworks;
 			sourceTree = "<group>";
 		};
+		82A56A9020AB4777A0C8DEF7 /* Resources */ = {
+			isa = PBXGroup;
+			children = (
+				FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */,
+				7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */,
+				66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */,
+				7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */,
+				F1EFA46633494545B92F4EF5 /* Lora-MediumItalic.ttf */,
+				EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */,
+				D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */,
+				07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */,
+				D0BADA4028384FA6A9219953 /* YoungSerif.otf */,
+			);
+			name = Resources;
+			sourceTree = "<group>";
+		};
 		832341AE1AAA6A7D00B99B32 /* Libraries */ = {
 			isa = PBXGroup;
 			children = (
@@ -213,26 +229,8 @@
 				FD18C89A5273D8B020BE5E5F /* Pods-protesttoolkit-tvOSTests.debug.xcconfig */,
 				8B75A544A457151269058272 /* Pods-protesttoolkit-tvOSTests.release.xcconfig */,
 			);
-			name = Pods;
 			path = Pods;
 			sourceTree = "<group>";
-		};
-		82A56A9020AB4777A0C8DEF7 /* Resources */ = {
-			isa = "PBXGroup";
-			children = (
-				FB70D10FB2F742F3A8E5C534 /* Lora-Bold.ttf */,
-				7AB0D3E308E04D418CAFABE1 /* Lora-BoldItalic.ttf */,
-				66776AA5D2294D8F8C1D1F8B /* Lora-Italic.ttf */,
-				7F0606E20C7F40FAAEA5590A /* Lora-Medium.ttf */,
-				F1EFA46633494545B92F4EF5 /* Lora-MediumItalic.ttf */,
-				EBC8136BF42445468EDE1A27 /* Lora-Regular.ttf */,
-				D173F31BE346462F93AB662B /* Lora-SemiBold.ttf */,
-				07B27F0756674883930B4B37 /* Lora-SemiBoldItalic.ttf */,
-				D0BADA4028384FA6A9219953 /* YoungSerif.otf */,
-			);
-			name = Resources;
-			sourceTree = "<group>";
-			path = "";
 		};
 /* End PBXGroup section */
 
@@ -328,6 +326,7 @@
 						TestTargetID = 13B07F861A680F5B00A75B9A;
 					};
 					13B07F861A680F5B00A75B9A = {
+						DevelopmentTeam = 57RB3MD27M;
 						LastSwiftMigration = 1120;
 					};
 					2D02E47A1E0B4A5D006451C7 = {
@@ -675,6 +674,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57RB3MD27M;
 				ENABLE_BITCODE = NO;
 				GCC_PREPROCESSOR_DEFINITIONS = (
 					"$(inherited)",
@@ -687,7 +687,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucasjohnston.protesttoolkit;
 				PRODUCT_NAME = protesttoolkit;
 				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
 				SWIFT_VERSION = 5.0;
@@ -702,6 +702,7 @@
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				CLANG_ENABLE_MODULES = YES;
 				CURRENT_PROJECT_VERSION = 1;
+				DEVELOPMENT_TEAM = 57RB3MD27M;
 				INFOPLIST_FILE = protesttoolkit/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				OTHER_LDFLAGS = (
@@ -709,7 +710,7 @@
 					"-ObjC",
 					"-lc++",
 				);
-				PRODUCT_BUNDLE_IDENTIFIER = "org.reactjs.native.example.$(PRODUCT_NAME:rfc1034identifier)";
+				PRODUCT_BUNDLE_IDENTIFIER = com.lucasjohnston.protesttoolkit;
 				PRODUCT_NAME = protesttoolkit;
 				SWIFT_VERSION = 5.0;
 				VERSIONING_SYSTEM = "apple-generic";
