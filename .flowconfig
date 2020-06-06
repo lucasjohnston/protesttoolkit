@@ -20,6 +20,7 @@ munge_underscores=true
 experimental.const_params=true
 
 esproposal.export_star_as=enable
+esproposal.optional_chaining=enable
 
 suppress_type=$FlowIssue
 suppress_type=$FlowFixMe
